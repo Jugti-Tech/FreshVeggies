@@ -1,0 +1,11 @@
+﻿global using FreshVeggies.ViewModels;
+global using CommunityToolkit.Mvvm.ComponentModel;
+global using CommunityToolkit.Maui;
+global using CommunityToolkit.Maui.Markup;
+global using Microsoft.Extensions.Logging;
+global using FreshVeggies.Pages.TabPages;
+global using FreshVeggies.ViewModels.TabViewModels;
+global using MongoDB.Bson;
+global using Realms;
+global using FreshVeggies.Services.Interfaces;
+global using FreshVeggies.Services.Implementations;
